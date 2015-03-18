@@ -1,0 +1,9 @@
+TODO: Next Revision
+--------------------
+
+1) Add Pullups to I2C lines.
+
+2) Add Topside/Edge Switch & LEDs
+
+3) Add NFET power sharing and 5V LDO
+
