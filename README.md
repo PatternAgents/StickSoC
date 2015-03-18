@@ -3,7 +3,7 @@ StickSoC
 
 PatternAgents StickSoC - add on boards for the Cypress CY8CKIT-049 (PSoC4)
 
-[![PatternAgents StickSoC](http://www.patternagents.com/img/projects/StickSoC/StickSoC_model.png)  
+[![PatternAgents StickSoC](http://www.patternagents.com/img/projects/StickSoC/StickSoC_top.png)  
 *PatternAgents StickSoC*](http://www.patternagents.com/projects/StickSoC.html)
 
 The PatternAgents StickSoC allows the Cypress CY8CKIT-049 board to accept Arduino type Shields.
